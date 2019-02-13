@@ -1,0 +1,7 @@
+# Ignore manual-only notebook saves
+.ipynb_checkpoints/
+
+# Ignore data files
+###################
+*.nc
+*.csv
